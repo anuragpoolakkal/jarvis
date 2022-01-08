@@ -1,7 +1,7 @@
 # Jarvis
 This is my Jarvis voice assistant.
 
-I also built a <a href="https://www.github.com/anuragrajanp/alexa">Alexa voice assistant</a> too.
+I also built an <a href="https://www.github.com/anuragrajanp/alexa">Alexa voice assistant</a> too.
 <br><br>
 
 # Installation
