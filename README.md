@@ -1,8 +1,5 @@
 # Jarvis
-This is my Jarvis voice assistant.
-
-I also built an <a href="https://www.github.com/anuragrajanp/alexa">Alexa voice assistant</a> too.
-<br><br>
+Jarvis is a voice assistant that can reply to voice commands.
 
 # Installation
 <h3>For windows users</h3>
